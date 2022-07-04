@@ -7,7 +7,7 @@
  </p>
 
 <p>
-[DEMO (Click!)](https://monumental-pastelito-79d239.netlify.app/)
+[DEMO_Click!](https://monumental-pastelito-79d239.netlify.app/)
 </p>
 
 ![screenshot](https://github.com/kyungsun-lee-work/CSS_overwatch_hero_select_effect/blob/main/screenshot.png)
