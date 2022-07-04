@@ -1,9 +1,9 @@
 # Frontend Development
 <p> Overwatch hero selector example using CSS. </p>
 <p> Implement transition effects using CSS. <br>
- 1) skew backround images
- 2) transform animation
- 3) alignment and flex
+ - [ ] skew backround images <br>
+ - [ ] transform animation <br>
+ - [ ] alignment and flex <br> <br>
  </p>
 
 [DEMO](https://monumental-pastelito-79d239.netlify.app/)
