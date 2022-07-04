@@ -6,9 +6,6 @@
  3) alignment and flex <br> <br>
  </p>
 
-
- 
-## Hit the demo site!
 [DEMO](https://monumental-pastelito-79d239.netlify.app/)
 <br>
 
